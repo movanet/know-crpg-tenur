@@ -13,10 +13,10 @@ Tenur air mengacu pada **hak, aturan, dan praktik yang mengatur akses dan pengen
 
 ## Mulai dari Sini
 
-Jika Anda baru mengenal konsep tenur air, mulailah dari halaman-halaman berikut:
+Jika Anda baru mengenal konsep tenurial air, mulailah dari halaman-halaman berikut:
 
-- **[[apa-itu-tenur-air]]** - Pengenalan konsep dasar tenur air
-- **[[uu-17-2019]]** - Kerangka hukum tenur air di Indonesia
+- **[[apa-itu-tenur-air]]** - Pengenalan konsep dasar tenurial air
+- **[[uu-17-2019]]** - Kerangka hukum tenurial air di Indonesia
 - **[[fragmentasi-institusional]]** - Tantangan tata kelola air
 
 ## Topik Utama
@@ -49,7 +49,7 @@ Jika Anda baru mengenal konsep tenur air, mulailah dari halaman-halaman berikut:
 [[08-adaptasi-iklim/index|Adaptasi Perubahan Iklim]] - Resiliensi sistem air terhadap perubahan iklim
 
 ### 💡 Rekomendasi
-[[09-rekomendasi/index|Rekomendasi Kebijakan]] - Usulan perbaikan tata kelola tenur air
+[[09-rekomendasi/index|Rekomendasi Kebijakan]] - Usulan perbaikan tata kelola tenurial air
 
 ## Tentang Proyek
 
@@ -61,7 +61,7 @@ Penelitian ini dilakukan di **4 kabupaten** (Indramayu, Majalengka, Cirebon, dan
 
 ### Metodologi
 
-Penilaian ini menggunakan kerangka analisis tenur air yang dikembangkan oleh FAO, dengan fokus pada:
+Penilaian ini menggunakan kerangka analisis tenurial air yang dikembangkan oleh FAO, dengan fokus pada:
 
 1. **Tenur formal** - hak yang diakui secara hukum
 2. **Tenur adat** - praktik tradisional dan hukum adat
