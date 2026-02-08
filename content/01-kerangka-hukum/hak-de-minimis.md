@@ -110,3 +110,7 @@ Fokus penegakan pada penyalahgunaan besar:
 - [[tenur-informal]] - De minimis sering overlap dengan tenur informal
 - [[water-accounting]] - Dampak de minimis pada akuntansi air
 - [[kelompok-rentan]] - Yang paling terpengaruh oleh ambiguitas
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

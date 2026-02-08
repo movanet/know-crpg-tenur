@@ -138,3 +138,7 @@ Analisis bundel hak penting untuk memahami [[keamanan-tenur]] (*tenure security*
 - [[keamanan-tenur]] - Tingkat kepastian dan perlindungan terhadap hak akses air
 - [[fragmentasi-institusional]] - Bagaimana fragmentasi hak menciptakan tantangan tata kelola
 - [[izin-sipa]] - Instrumen formalisasi hak penarikan air
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

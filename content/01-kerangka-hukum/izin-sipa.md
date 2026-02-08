@@ -109,3 +109,7 @@ SIPA menjadi formalitas yang tidak efektif dalam mengatur penggunaan air aktual.
 - [[bbws]] - Lembaga penerbit SIPA untuk sumber air besar
 - [[pompanisasi]] - Fenomena pompa tanpa SIPA
 - [[kelompok-rentan]] - Kesulitan akses formalisasi
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

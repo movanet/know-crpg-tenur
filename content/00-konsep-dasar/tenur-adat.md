@@ -62,3 +62,7 @@ Aturan dan praktik disampaikan secara **non-formal**:
 - [[gilir-giring]] - Sistem rotasi air tradisional saat kelangkaan
 - [[p3a]] - Perkumpulan Petani Pemakai Air
 - [[keamanan-tenur]] - Kepastian akses dalam konteks lokal
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

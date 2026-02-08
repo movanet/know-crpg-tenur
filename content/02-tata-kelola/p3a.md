@@ -118,3 +118,7 @@ Perkumpulan Petani Pemakai Air (P3A) atau *water users association* (WUA) adalah
 - [[tenur-adat]] - Sistem adat yang kadang konflik dengan P3A
 - [[perempuan-dan-air]] - Isu partisipasi perempuan di P3A
 - [[kelompok-rentan]] - Yang perlu lebih dilibatkan dalam P3A
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

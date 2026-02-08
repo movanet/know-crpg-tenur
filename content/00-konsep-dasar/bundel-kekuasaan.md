@@ -205,3 +205,7 @@ Teknologi baru seperti pompanisasi (*pumping*):
 - [[kelompok-rentan]] - Kelompok yang memiliki bundel kekuasaan lemah
 - [[transparansi-alokasi]] - Rekomendasi untuk mengurangi gap hak-kekuasaan
 - [[fragmentasi-institusional]] - Bagaimana fragmentasi menciptakan peluang penyalahgunaan kekuasaan
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

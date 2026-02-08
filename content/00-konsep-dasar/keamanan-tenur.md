@@ -41,3 +41,7 @@ Apakah hak diakui dan dihormati oleh komunitas.
 - [[tenur-adat]] - Keamanan melalui legitimasi sosial
 - [[tenur-informal]] - Tingkat keamanan yang rendah
 - [[kelompok-rentan]] - Kelompok dengan keamanan tenur rendah
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

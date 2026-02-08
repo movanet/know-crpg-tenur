@@ -249,3 +249,7 @@ Tenur formal seharusnya memberikan [[keamanan-tenur|keamanan tenur]] (*tenure se
 - [[uu-17-2019]] - Kerangka hukum utama tenurial air formal di Indonesia
 - [[keamanan-tenur]] - Tingkat kepastian dan perlindungan hak akses air
 - [[bundel-hak]] - Komponen-komponen hak dalam tenur formal
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

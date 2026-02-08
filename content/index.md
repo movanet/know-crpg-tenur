@@ -106,3 +106,7 @@ Website: [www.fao.org/indonesia](https://www.fao.org/indonesia)
 *Basis pengetahuan ini dibangun menggunakan [Quartz v4](https://quartz.jzhao.xyz) - sebuah static site generator untuk digital garden.*
 
 *Terakhir diperbarui: Februari 2026*
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**

@@ -66,3 +66,7 @@ Koordinasi alokasi air (*water allocation*) melalui:
 - [[fragmentasi-institusional]] - Masalah koordinasi
 - [[water-accounting]] - Fungsi monitoring BBWS
 - [[uu-17-2019]] - Dasar hukum kewenangan BBWS
+
+---
+
+**© 2026 Mohamad Mova Al'Afghani, Tenurial Air di Indonesia, CRPG | All rights reserved**
