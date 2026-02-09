@@ -1,0 +1,22 @@
+[build]
+  command = "npx quartz build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NPM_VERSION = "10.9.2"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
+
+[context.production]
+  command = "npx quartz build"
+
+[context.deploy-preview]
+  command = "npx quartz build"
+
+[context.branch-deploy]
+  command = "npx quartz build"
