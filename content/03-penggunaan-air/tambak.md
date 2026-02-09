@@ -18,7 +18,7 @@ Kolam ikan air payau (*tambak*) telah dibangun di kawasan mangrove dan dianggap 
 [^2]: Lihat [[aquaculture]]
 [^3]: Lihat [[customary-tenure]]
 [^4]: Lihat [[power-generation]]
-[^5]: Lihat [[livestock]]
+[^5]: Lihat [[livestock]].
 
 ## Lihat Juga
 
@@ -31,5 +31,5 @@ Kolam ikan air payau (*tambak*) telah dibangun di kawasan mangrove dan dianggap 
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Water Uses - Tambak and Irrigation**
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Water Uses - Tambak and Irrigation**
 **Catatan kaki:** 1, 2, 3, 4, 5

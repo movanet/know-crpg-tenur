@@ -11,7 +11,7 @@ publish: true
 
 # Sawah
 
-> "Kalau di sawah kan yang tahu banyak tuh laki-laki. Kalau di rumah kan kita ibu-ibu, tentang air." - Ibu Taslima
+> "Kalau di sawah kan yang tahu banyak tuh laki-laki. Kalau di rumah kan kita ibu-ibu, tentang air." - Ibu Taslima[^1]
 
 > "Enggak pernah diajak rapat tentang air di tingkat RT atau desa" - Ibu Sri
 
@@ -29,6 +29,9 @@ publish: true
 **Farming Costs (per 100 bata):**
 - Total: Rp1.5-2 million/season
 
+
+[^1]: Cimanuk FAO Water Scarcity Program. (2025). *Comprehensive Water Tenure Thematic Analysis*, Section: 3.5 Theme 4: Exclusion from Water Governance (9/10 interviews).
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -37,5 +40,3 @@ publish: true
 
 ---
 
-**Sumber:** COMPREHENSIVE_WATER_TENURE_THEMATIC_ANALYSIS.md, Section: 3.5 Theme 4: Exclusion from Water Governance (9/10 interviews)
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

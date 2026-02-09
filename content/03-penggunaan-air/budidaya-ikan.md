@@ -11,7 +11,7 @@ publish: true
 
 # Budidaya Ikan
 
-**Original:** Neliti. 'Kajian Budidaya Ikan Nilem (Osteochilus hasselti) Dalam Upaya Konservasi Sumberdaya Ikan'. [Accessed via B6. Aquaculture.docx, source ID 74]
+**Original:** Neliti. 'Kajian Budidaya Ikan Nilem (Osteochilus hasselti) Dalam Upaya Konservasi Sumberdaya Ikan'. [Accessed via B6. Aquaculture.docx, source ID 74][^1]
 
 **Validated Citation:**
 ```
@@ -29,6 +29,9 @@ Jubaedah. (2009). Kajian Budidaya Ikan Nilem (Osteochilus hasselti) dalam Upaya 
 ```
 Nuraini. (2022). Identifikasi Potensi Perikanan dan Penyuluhan Perikanan di Kecamatan Sindangwangi Kabupaten Majalengka Provinsi Jawa Barat. Jurnal Penyuluhan Perikanan dan Kelautan. http://jppik.id/index.php/jppik/article/view/426
 
+
+[^1]: Cimanuk FAO Project. (2026). *B6 Aquaculture Validation Results*, Line 282: Neliti - Nilem Fish Cultivation.
+
 ## Lihat Juga
 
 - [[perikanan]]
@@ -37,5 +40,3 @@ Nuraini. (2022). Identifikasi Potensi Perikanan dan Penyuluhan Perikanan di Keca
 
 ---
 
-**Sumber:** validation_results_B6_aquaculture.md, Section: Line 282: Neliti - Nilem Fish Cultivation
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

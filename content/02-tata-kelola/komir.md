@@ -1,6 +1,7 @@
 ---
-title: "Tantangan Organisasi Komir"
+title: "Tantangan Organisasi *KOMIR*"
 aliases:
+  - "KOMIR"
   - "Komir"
   - "komir"
   - "Organizational Challenges"
@@ -11,13 +12,13 @@ tags:
 publish: true
 ---
 
-# Tantangan Organisasi Komir
+# Tantangan Organisasi *KOMIR*
 
 - Tidak ada komunikasi efektif [[p3a]]-GP3A-Komir
 - Pemilik lahan dari desa tetangga memperumit keanggotaan
 - Elevasi lebih tinggi masih membutuhkan pompa
 - Demografis petani menua
-- Budaya *gotong royong* yang memudar
+- Budaya *gotong royong* yang memudar[^1]
 
 ### Ketidakcocokan Alokasi Air
 
@@ -39,6 +40,9 @@ publish: true
 
 ---
 
+
+[^1]: Cimanuk FAO Water Scarcity Program. (2025). *Comprehensive Water Tenure Thematic Analysis*, Section: 6.2 Organizational Challenges.
+
 ## Lihat Juga
 
 - [[p3a]]
@@ -48,5 +52,3 @@ publish: true
 
 ---
 
-**Sumber:** COMPREHENSIVE_WATER_TENURE_THEMATIC_ANALYSIS.md, Section: 6.2 Organizational Challenges
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

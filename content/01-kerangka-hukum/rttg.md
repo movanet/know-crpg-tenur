@@ -1,6 +1,7 @@
 ---
-title: "Rttg"
+title: "*RTTG*"
 aliases:
+  - "RTTG"
   - "rttg"
 tags:
   - tenur-air
@@ -9,9 +10,9 @@ tags:
 publish: true
 ---
 
-# RTTG
+# *RTTG*
 
-RTTG (Rencana Tata Tanam dan Gilir Giring) adalah rencana pola tanam yang mengatur jadwal penanaman dan distribusi air irigasi. Sistem ini mengalami kekurangan fleksibilitas dalam implementasinya.
+RTTG (Rencana Tata Tanam dan Gilir Giring) adalah rencana pola tanam yang mengatur jadwal penanaman dan distribusi air irigasi. Sistem ini mengalami kekurangan fleksibilitas dalam implementasinya.[^1]
 
 Saat periode pemilu, setiap Camat memastikan wilayahnya mendapat alokasi air, menciptakan pola distribusi yang lebih bersifat politis. Implementasi RTTG juga kurang transparan, menimbulkan kekhawatiran praktik korupsi dalam alokasi air.
 
@@ -25,6 +26,9 @@ PDAM juga menghadapi konflik dengan masyarakat saat melakukan survei sumber mata
 
 Terdapat tumpang tindih regulasi: PP 30/2024 (Pengelolaan SDA), PP 82/2001 (Kualitas Air), PP 20/2006 (Irigasi), PP 122/2015 (SPAM), dan Perpres 37/2023 (Kebijakan Nasional Air).
 
+
+[^1]: Cimanuk FAO Water Scarcity Program. (2025). *Comprehensive Water Tenure Thematic Analysis*, Section: 6.3 Water Allocation Mismatch.
+
 ## Lihat Juga
 
 - [[raat]]
@@ -35,5 +39,3 @@ Terdapat tumpang tindih regulasi: PP 30/2024 (Pengelolaan SDA), PP 82/2001 (Kual
 
 ---
 
-**Sumber:** COMPREHENSIVE_WATER_TENURE_THEMATIC_ANALYSIS.md, Section: 6.3 Water Allocation Mismatch
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

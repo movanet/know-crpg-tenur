@@ -11,7 +11,7 @@ publish: true
 
 # Peternakan
 
-Permintaan air tahunan diperkirakan meningkat 26% (dan 28% pada musim kemarau) antara 2015-2045, dengan permintaan dari peternakan (289%) dan industri (295%) diharapkan menjadi pendorong utama.10 Produktivitas air di Indonesia termasuk terendah di Asia, hanya menghasilkan USD 3,2 untuk setiap meter kubik yang ditarik.11
+Permintaan air tahunan diperkirakan meningkat 26% (dan 28% pada musim kemarau) antara 2015-2045, dengan permintaan dari peternakan (289%) dan industri (295%) diharapkan menjadi pendorong utama.10 Produktivitas air di Indonesia termasuk terendah di Asia, hanya menghasilkan USD 3,2 untuk setiap meter kubik yang ditarik.11[^1]
 
 9 ibid.
 10 ibid.
@@ -26,6 +26,9 @@ Akses ke sumber air "layak" mencapai 90,78%12 (2020), namun perlu dicatat bahwa 
 
 # **Gambar 3: Sumber Air untuk Penggunaan Rumah Tangga**
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Table 1: Water Stress per Island**.
+
 ## Lihat Juga
 
 - [[environmental-flow]]
@@ -36,5 +39,3 @@ Akses ke sumber air "layak" mencapai 90,78%12 (2020), namun perlu dicatat bahwa 
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Table 1: Water Stress per Island**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

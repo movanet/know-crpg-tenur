@@ -21,15 +21,12 @@ publish: true
 
 - **PDAM (Perusahaan Daerah Air Minum):** Utilitas milik kabupaten yang menyediakan air perpipaan, memerlukan [[izin-sipa]] untuk pengambilan air.
 
-**Mekanisme koordinasi meliputi:**
+**Mekanisme koordinasi meliputi:**[^1]
+
+[^1]: Governance of Water Tenure, Section: 5.2 Institutional mandates & coordination.
 
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
 - [[kerangka-hukum]]
 - [[tata-kelola]]
-
----
-
-**Sumber:** Governance of Water Tenure.md, Section: 5.2 Institutional mandates & coordination
-**Catatan kaki:** Tidak ada catatan kaki

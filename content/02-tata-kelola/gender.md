@@ -19,7 +19,9 @@ Penilaian dilakukan berdasarkan tingkat pengakuan:
 - **Kategori C:** Hanya pengakuan formal tanpa implementasi substantif
 - **Kategori D:** Kepentingan kelompok ini sebagian besar diabaikan
 
-Isu gender dalam tata kelola air mencakup: akses dan kontrol terhadap sumber daya air, partisipasi dalam lembaga seperti [[p3a]], representasi dalam pengambilan keputusan, dan dampak diferensial dari kebijakan air terhadap [[women]] dan [[youth]]. Implementasi [[formal-tenure]] perlu mempertimbangkan dimensi gender untuk memastikan keadilan dan inklusivitas.
+Isu gender dalam tata kelola air mencakup: akses dan kontrol terhadap sumber daya air, partisipasi dalam lembaga seperti [[p3a]], representasi dalam pengambilan keputusan, dan dampak diferensial dari kebijakan air terhadap [[women]] dan [[youth]]. Implementasi [[formal-tenure]] perlu mempertimbangkan dimensi gender untuk memastikan keadilan dan inklusivitas.[^1]
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Analysis of the governance of water tenure in the assessment area.
 
 ## Lihat Juga
 
@@ -27,8 +29,3 @@ Isu gender dalam tata kelola air mencakup: akses dan kontrol terhadap sumber day
 - [[youth]]
 - [[p3a]]
 - [[formal-tenure]]
-
----
-
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Analysis of the governance of water tenure in the assessment area**
-**Catatan kaki:** Tidak ada catatan kaki

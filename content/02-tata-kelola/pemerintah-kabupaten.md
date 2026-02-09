@@ -12,7 +12,7 @@ publish: true
 # Pemerintah Kabupaten
 
 Pemerintah Kabupaten Indramayu. Kampung Perikanan Budidaya Nila Salin Indramayu. https://indramayukab.go.id/kampung-perikanan-budidaya-nila-salin-indramayu/
-```
+```[^1]
 
 **Relevansi [[apa-itu-tenur-air]]:** ⭐⭐⭐ TINGGI - Indramayu berada di DAS Cimanuk
 
@@ -30,6 +30,9 @@ Dompet Dhuafa. Budidaya Gurame di Indramayu Tembus 1 Ton Panen Per Kolam. https:
 
 ---
 
+
+[^1]: Cimanuk FAO Project. (2026). *B6 Aquaculture Validation Results*, Line 272: IndramayuKab.go.id - Nila Salin Village.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -38,5 +41,3 @@ Dompet Dhuafa. Budidaya Gurame di Indramayu Tembus 1 Ton Panen Per Kolam. https:
 
 ---
 
-**Sumber:** validation_results_B6_aquaculture.md, Section: Line 272: IndramayuKab.go.id - Nila Salin Village
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

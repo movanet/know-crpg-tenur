@@ -11,7 +11,7 @@ publish: true
 
 # Komisi Irigasi
 
-**Komir (Komisi Irigasi):** Komisi irigasi yang secara teoretis melibatkan perwakilan pengguna, membahas kebutuhan air sebelum TKPSDA menyelesaikan rencana. Partisipasi petani tampak terbatas.
+**Komir (Komisi Irigasi):** Komisi irigasi yang secara teoretis melibatkan perwakilan pengguna, membahas kebutuhan air sebelum TKPSDA menyelesaikan rencana. Partisipasi petani tampak terbatas.[^1]
 
 **RTTG (Rencana Tata Tanam Global):** Rencana alokasi air tahunan yang idealnya berdasarkan data bottom-up (formulir Blangko) tetapi sering diputuskan secara top-down tanpa konsultasi memadai atau mencerminkan realitas lapangan.
 
@@ -21,6 +21,9 @@ Tantangan koordinasi efektif tetap ada karena ambiguitas kelembagaan (transisi T
 
 ### Air Tanah Dikecualikan dari Penilaian Neraca Air Komprehensif
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section 5: Governance of Water Tenure, 5.2 Institutional mandates & coordination.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -29,5 +32,3 @@ Tantangan koordinasi efektif tetap ada karena ambiguitas kelembagaan (transisi T
 
 ---
 
-**Sumber:** Governance of Water Tenure.md, Section: 5.2 Institutional mandates & coordination
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

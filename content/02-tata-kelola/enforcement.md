@@ -19,7 +19,7 @@ Pemerintah mencari model kelembagaan untuk koordinasi hulu-hilir dalam KHG dan a
 [^2]: AlAfghani 2020:3; PP 57/2016
 [^3]: Wawancara dengan pejabat pemerintah
 [^4]: Sistem Pemantauan Lahan Gambut
-[^5]: Data dapat diakses di platform BRGM
+[^5]: Data dapat diakses di platform BRGM.
 
 ## Lihat Juga
 
@@ -31,5 +31,5 @@ Pemerintah mencari model kelembagaan untuk koordinasi hulu-hilir dalam KHG dan a
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: Monitoring and Enforcement
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Monitoring and Enforcement
 **Catatan kaki:** 1, 2, 3, 4, 5

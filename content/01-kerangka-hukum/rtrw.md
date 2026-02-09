@@ -1,6 +1,7 @@
 ---
-title: "Rtrw"
+title: "*RTRW*"
 aliases:
+  - "RTRW"
   - "rtrw"
 tags:
   - tenur-air
@@ -9,9 +10,9 @@ tags:
 publish: true
 ---
 
-# RTRW dan Tenur Air
+# *RTRW* dan Tenur Air
 
-**Rencana Tata Ruang Wilayah (RTRW)** adalah instrumen perencanaan spasial yang mengatur alokasi penggunaan lahan dan sumber daya alam, termasuk air. RTRW memiliki implikasi penting bagi tenur air:
+**Rencana Tata Ruang Wilayah (RTRW)** adalah instrumen perencanaan spasial yang mengatur alokasi penggunaan lahan dan sumber daya alam, termasuk air. RTRW memiliki implikasi penting bagi tenur air:[^1]
 
 **Integrasi Tenur dalam Perencanaan Spasial:**
 1. Pengakuan tenur adat melalui integrasi Perda/RTRW
@@ -35,6 +36,9 @@ publish: true
 - Integrasi data air tanah (koordinasi ESDM-PUPR)
 - Operasionalisasi kontrak kinerja PDAM dengan KPI kontinuitas
 
+
+[^1]: Cimanuk FAO Water Scarcity Program. (2025). *Comprehensive Water Tenure Thematic Analysis*, Section: 10.1 Regulatory Reform.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -43,5 +47,3 @@ publish: true
 
 ---
 
-**Sumber:** COMPREHENSIVE_WATER_TENURE_THEMATIC_ANALYSIS.md, Section: 10.1 Regulatory Reform
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

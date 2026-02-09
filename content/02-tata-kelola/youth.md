@@ -16,7 +16,9 @@ Pemuda merupakan kelompok strategis dalam pengelolaan air jangka panjang, namun 
 
 Analisis [[apa-itu-tenur-air]] menunjukkan bahwa kepentingan pemuda—bersama [[women|perempuan]] dan [[vulnerable-groups|kelompok rentan]]—berada di kategori C-D dalam penilaian tata kelola. Artinya, pengakuan terhadap hak dan peran pemuda hanya bersifat retorika tanpa implementasi nyata, atau bahkan diabaikan sepenuhnya dalam pengaturan tenur air dan pengambilan keputusan.
 
-Pemuda menghadapi hambatan struktural dalam mengakses tanah dan air untuk bertani. Regenerasi [[farmers|petani]] terhambat karena sistem [[p3a]] yang kaku dan tidak menarik bagi generasi muda. Strategi pelibatan pemuda perlu dikembangkan, termasuk melalui digitalisasi, pelatihan kewirausahaan air, pemberian peran kepemimpinan, dan pengembangan institusi [[gender|inklusif]] berbasis komunitas yang relevan dengan aspirasi generasi muda.
+Pemuda menghadapi hambatan struktural dalam mengakses tanah dan air untuk bertani. Regenerasi [[farmers|petani]] terhambat karena sistem [[p3a]] yang kaku dan tidak menarik bagi generasi muda. Strategi pelibatan pemuda perlu dikembangkan, termasuk melalui digitalisasi, pelatihan kewirausahaan air, pemberian peran kepemimpinan, dan pengembangan institusi [[gender|inklusif]] berbasis komunitas yang relevan dengan aspirasi generasi muda.[^1]
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Analysis of the governance of water tenure in the assessment area.
 
 ## Lihat Juga
 
@@ -25,8 +27,3 @@ Pemuda menghadapi hambatan struktural dalam mengakses tanah dan air untuk bertan
 - [[vulnerable-groups]]
 - [[p3a]]
 - [[p3a]]
-
----
-
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Analysis of the governance of water tenure in the assessment area**
-**Catatan kaki:** Tidak ada catatan kaki

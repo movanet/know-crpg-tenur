@@ -12,7 +12,7 @@ publish: true
 
 # Hak de minimis
 
-**Hak de minimis** adalah salah satu tipologi [[apa-itu-tenur-air]] yang diidentifikasi dalam kerangka analisis tenur air FAO.
+**Hak de minimis** adalah salah satu tipologi [[apa-itu-tenur-air]] yang diidentifikasi dalam kerangka analisis tenur air FAO.[^1]
 
 Istilah *de minimis* berasal dari prinsip hukum Latin "*de minimis non curat lex*" yang berarti "hukum tidak mengatur hal-hal yang sangat kecil atau sepele". Dalam konteks tenur air, hak de minimis merujuk pada penggunaan air dalam jumlah yang sangat kecil sehingga tidak memerlukan izin formal atau regulasi khusus.
 
@@ -26,6 +26,9 @@ Hak de minimis merupakan salah satu dari sembilan tipologi tenur yang dikembangk
 
 Pemahaman tentang berbagai tipologi tenur, termasuk hak de minimis, penting untuk penilaian tenur air yang komprehensif dan pengembangan [[kerangka-hukum]] yang efektif.
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: De Minimis Rights.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -34,5 +37,3 @@ Pemahaman tentang berbagai tipologi tenur, termasuk hak de minimis, penting untu
 
 ---
 
-**Sumber:** Annex7, Section: De Minimis Rights
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

@@ -11,7 +11,7 @@ publish: true
 
 # Perikanan
 
-Perikanan budidaya merupakan sektor penting dalam penggunaan air di Indonesia, khususnya di wilayah Jawa Barat dan Cirebon. Data produksi perikanan budidaya menurut komoditas utama tahun 2022 menunjukkan variasi signifikan antar kabupaten/kota dan jenis kegiatan budidaya. [[aquaculture|Budidaya ikan]] memerlukan pengelolaan air yang tepat untuk menjaga produktivitas dan keberlanjutan. Sektor ini berkontribusi pada ketahanan pangan lokal dan perekonomian masyarakat pesisir maupun pedalaman.
+Perikanan budidaya merupakan sektor penting dalam penggunaan air di Indonesia, khususnya di wilayah Jawa Barat dan Cirebon. Data produksi perikanan budidaya menurut komoditas utama tahun 2022 menunjukkan variasi signifikan antar kabupaten/kota dan jenis kegiatan budidaya. [[aquaculture|Budidaya ikan]] memerlukan pengelolaan air yang tepat untuk menjaga produktivitas dan keberlanjutan. Sektor ini berkontribusi pada ketahanan pangan lokal dan perekonomian masyarakat pesisir maupun pedalaman.[^1]
 
 **Sumber Data Validasi:**
 
@@ -21,6 +21,9 @@ BPS Provinsi Jawa Barat. (2022). Produksi Perikanan Budidaya Menurut Kabupaten/K
 
 ---
 
+
+[^1]: Cimanuk FAO Project. (2026). *B6 Aquaculture Validation Results*, Line 276: BPS Kota Cirebon.
+
 ## Lihat Juga
 
 - [[aquaculture]]
@@ -29,5 +32,3 @@ BPS Provinsi Jawa Barat. (2022). Produksi Perikanan Budidaya Menurut Kabupaten/K
 
 ---
 
-**Sumber:** validation_results_B6_aquaculture.md, Section: Line 276: BPS Kota Cirebon
-**Catatan kaki:** Tidak ada catatan kaki

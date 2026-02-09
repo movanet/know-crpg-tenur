@@ -1,6 +1,7 @@
 ---
-title: "Sippa"
+title: "*SIPPA*"
 aliases:
+  - "SIPPA"
   - "sippa"
 tags:
   - tenur-air
@@ -9,9 +10,9 @@ tags:
 publish: true
 ---
 
-# Sippa
+# *SIPPA*
 
-SIPPA (Sistem Informasi Penyediaan Air Minum dan Sanitasi) merupakan platform data online yang dikelola oleh Kementerian Pekerjaan Umum dan Perumahan Rakyat untuk memantau perkembangan sistem penyediaan air minum di Indonesia. Platform ini menyediakan data tentang infrastruktur air minum, termasuk kapasitas terpasang, efektivitas, dan efisiensi sistem di berbagai daerah. Data dari SIPPA menunjukkan bahwa tingkat efisiensi sistem penyediaan air minum bervariasi antar kabupaten, dengan Provinsi Kalimantan Tengah mencapai rata-rata 76,09%. Informasi ini penting untuk perencanaan dan evaluasi [[tata-kelola]] sektor air minum dalam konteks [[tenur-air]].
+SIPPA (Sistem Informasi Penyediaan Air Minum dan Sanitasi) merupakan platform data online yang dikelola oleh Kementerian Pekerjaan Umum dan Perumahan Rakyat untuk memantau perkembangan sistem penyediaan air minum di Indonesia. Platform ini menyediakan data tentang infrastruktur air minum, termasuk kapasitas terpasang, efektivitas, dan efisiensi sistem di berbagai daerah. Data dari SIPPA menunjukkan bahwa tingkat efisiensi sistem penyediaan air minum bervariasi antar kabupaten, dengan Provinsi Kalimantan Tengah mencapai rata-rata 76,09%. Informasi ini penting untuk perencanaan dan evaluasi [[tata-kelola]] sektor air minum dalam konteks [[tenur-air]].[^1]
 
 Data statistik air bersih dari Badan Pusat Statistik melengkapi informasi SIPPA dengan menyediakan analisis kinerja sistem di tingkat provinsi dan kabupaten.
 
@@ -26,6 +27,9 @@ Data statistik air bersih dari Badan Pusat Statistik melengkapi informasi SIPPA 
 | 14 | PALANGKA RAYA | 273 | 245 | 89,74 |
 |  | CENTRAL KALIMANTAN | 2560 | 1948 | 76,09 |
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Figure 15: Installed, Effective and Efficiency**.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -34,5 +38,3 @@ Data statistik air bersih dari Badan Pusat Statistik melengkapi informasi SIPPA 
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Figure 15: Installed, Effective and Efficiency**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

@@ -16,7 +16,9 @@ Kelompok rentan dalam konteks akses air mencakup lansia, penyandang disabilitas,
 
 Kajian [[apa-itu-tenur-air]] menemukan bahwa [[tata-kelola]] air di Indonesia masih lemah dalam mengakomodasi kepentingan kelompok rentan. Infrastruktur air sering dirancang tanpa mempertimbangkan keterbatasan mobilitas lansia atau penyandang disabilitas. Tarif air tidak selalu mencerminkan kemampuan ekonomi rumah tangga miskin.
 
-Rekomendasi perbaikan mencakup: penguatan partisipasi [[women|perempuan]], penghapusan hambatan geografis dan ekonomi, pelibatan [[youth|pemuda]], integrasi GEDSI substantif dalam perencanaan (bukan sekadar retorika), dan dukungan inisiatif berbasis komunitas yang lebih inklusif. Pendekatan partisipatif dan sensitif terhadap keberagaman sosial sangat penting untuk menjamin keadilan air.
+Rekomendasi perbaikan mencakup: penguatan partisipasi [[women|perempuan]], penghapusan hambatan geografis dan ekonomi, pelibatan [[youth|pemuda]], integrasi GEDSI substantif dalam perencanaan (bukan sekadar retorika), dan dukungan inisiatif berbasis komunitas yang lebih inklusif. Pendekatan partisipatif dan sensitif terhadap keberagaman sosial sangat penting untuk menjamin keadilan air.[^1]
+
+[^1]: Governance of Water Tenure, Section: 5.5 Gender & social inclusion analysis.
 
 ## Lihat Juga
 
@@ -24,8 +26,3 @@ Rekomendasi perbaikan mencakup: penguatan partisipasi [[women|perempuan]], pengh
 - [[youth]]
 - [[farmers]]
 - [[women]]
-
----
-
-**Sumber:** Governance of Water Tenure.md, Section: 5.5 Gender & social inclusion analysis
-**Catatan kaki:** Tidak ada catatan kaki

@@ -1,6 +1,7 @@
 ---
-title: "Pupr"
+title: "*PUPR*"
 aliases:
+  - "PUPR"
   - "pupr"
 tags:
   - tenur-air
@@ -9,7 +10,7 @@ tags:
 publish: true
 ---
 
-# Pupr
+# *PUPR*
 
 102 Peraturan Menteri PUPR No. 14/PRT/M/2015 tentang Kriteria dan Penetapan Status Daerah Irigasi.  
 103 Peraturan Menteri Pekerjaan Umum Dan Perumahan Rakyat Republik Indonesia Nomor 30/Prt/M/2015 Tentang Pengembangan Dan Pengelolaan Sistem Irigasi.  
@@ -31,5 +32,5 @@ Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR) memiliki peran penting da
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Possible Tenure Typology for Community-Based Drinking Water e**
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Possible Tenure Typology for Community-Based Drinking Water e**
 **Catatan kaki:** 1, 2, 3

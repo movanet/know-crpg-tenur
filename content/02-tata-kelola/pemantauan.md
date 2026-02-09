@@ -11,7 +11,7 @@ publish: true
 
 # Pemantauan
 
-148 ‘Data Sistem Pemantauan Air Lahan Gambut (SIPALAGA) BRGM RI Di Provinsi Kalimantan Tengah Tahun 2021 \- DINAS LINGKUNGAN HIDUP PROVINSI KALIMANTAN TENGAH’ (12
+148 ‘Data Sistem Pemantauan Air Lahan Gambut (SIPALAGA) BRGM RI Di Provinsi Kalimantan Tengah Tahun 2021 \- DINAS LINGKUNGAN HIDUP PROVINSI KALIMANTAN TENGAH’ (12[^1]
 
    August	2021\)	\<[http://dlh.kalteng.go.id/pengumuman/data-sistem-pemantauan-air-lahan-gambut-](http://dlh.kalteng.go.id/pengumuman/data-sistem-pemantauan-air-lahan-gambut-)
 
@@ -25,6 +25,9 @@ publish: true
 
    150 ‘Melihat Target BRGM Restorasi Gambut Dan Mangrove Pada 2022’ (*Mongabay.co.id*, 13 January 2022\)	\<https://[www.mongabay.co.id/2022/01/13/melihat-target-brgm-restorasi-gambut-dan-](http://www.mongabay.co.id/2022/01/13/melihat-target-brgm-restorasi-gambut-dan-)
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Figure 14: Natural vs Drained Peat Dome**.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -33,5 +36,3 @@ publish: true
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Figure 14: Natural vs Drained Peat Dome**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

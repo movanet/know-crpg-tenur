@@ -12,7 +12,7 @@ publish: true
 # Pola Pengelolaan
 
 1. In accordance with the water resources strategic plan (Pola Pengelolaan Sumber Daya Air) and water resources technical plan (Rencana Pengelolaan Sumber Daya Air);  
-   2. Fulfill technical administrative requirements;
+   2. Fulfill technical administrative requirements;[^1]
 
    3. Obtain approval from relevant stakeholders;
 
@@ -26,6 +26,9 @@ publish: true
 
    *Commercial Permits*
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Table 6: Comparison of Allocation Priorities**.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -34,5 +37,3 @@ publish: true
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Table 6: Comparison of Allocation Priorities**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

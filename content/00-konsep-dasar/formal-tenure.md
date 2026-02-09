@@ -44,5 +44,5 @@ Tenur formal diatur dalam:
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Bagian: "Modern" permit-based formal water rights
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, bagian "Modern" permit-based formal water rights
 **Catatan kaki:** UU 17/2019 Pasal 45-50; PP 122/2015

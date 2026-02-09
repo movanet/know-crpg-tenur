@@ -16,7 +16,7 @@ Meskipun sanitasi dasar tersedia bagi 79% populasi, sambungan jaringan pembuanga
 [^1]: World Bank (n 6).
 [^2]: ibid.
 [^3]: Hasanuddin Z Abidin and others, 'Land Subsidence of Jakarta (Indonesia) and Its Relation with Urban Development' (2011) 59
-[^4]: [Referensi lengkap diperlukan]
+[^4]: [Referensi lengkap diperlukan].
 
 ## Lihat Juga
 
@@ -28,5 +28,5 @@ Meskipun sanitasi dasar tersedia bagi 79% populasi, sambungan jaringan pembuanga
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Figure 3: Water Sources for Household Use**
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Figure 3: Water Sources for Household Use**
 **Catatan kaki:** 1, 2, 3, 4

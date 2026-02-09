@@ -16,10 +16,10 @@ Air minum merupakan penggunaan air prioritas dalam [[water-tenure]] Indonesia. H
 
 Alokasi air untuk kebutuhan minum mendapat prioritas pertama dalam hierarki penggunaan air, di atas [[irrigation]] dan keperluan lainnya. Namun, konflik terjadi ketika alokasi untuk minum mengurangi [[environmental-flow]] yang diperlukan ekosistem sungai.[^3] Regulasi mengharuskan izin penggunaan air minum mempertimbangkan keberlanjutan sumber air dan keseimbangan ekologis.[^4]
 
-[^1]: Annex 7_Indonesia Water Tenure Analysis.docx.md, Section 2.1
-[^2]: Annex 7_Indonesia Water Tenure Analysis.docx.md, Section 3.2
-[^3]: Annex 7_Indonesia Water Tenure Analysis.docx.md, Section 4.3
-[^4]: UU 17/2019 tentang Sumber Daya Air, Pasal 21
+[^1]: Annex 7_Indonesia Water Tenure Analysis, Section 2.1
+[^2]: Annex 7_Indonesia Water Tenure Analysis, Section 3.2
+[^3]: Annex 7_Indonesia Water Tenure Analysis, Section 4.3
+[^4]: UU 17/2019 tentang Sumber Daya Air, Pasal 21.
 
 ## Lihat Juga
 
@@ -31,5 +31,5 @@ Alokasi air untuk kebutuhan minum mendapat prioritas pertama dalam hierarki peng
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: Table of Contents
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Table of Contents
 **Catatan kaki:** 1, 2, 3, 4

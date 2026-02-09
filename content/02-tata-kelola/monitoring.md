@@ -28,9 +28,9 @@ Pemerintah saat ini mencari model kelembagaan yang dapat mengkoordinasikan hulu-
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: Monitoring and Enforcement
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Monitoring and Enforcement
 **Catatan kaki:** 1, 2, 3, 4
 [^1]: PP No. 57 Tahun 2016, Pasal 1
 [^2]: AlAfghani (n 120) 3; PP No. 57 Tahun 2016, Pasal I
 [^3]: AlAfghani (n 120) 3
-[^4]: ibid
+[^4]: ibid.

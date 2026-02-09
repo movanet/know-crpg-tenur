@@ -12,7 +12,7 @@ publish: true
 
 # Tenur Informal
 
-**Tenur informal** adalah pengaturan [[apa-itu-tenur-air]] yang tidak diakui secara resmi oleh hukum formal negara, namun dipraktikkan dalam kehidupan sehari-hari masyarakat.
+**Tenur informal** adalah pengaturan [[apa-itu-tenur-air]] yang tidak diakui secara resmi oleh hukum formal negara, namun dipraktikkan dalam kehidupan sehari-hari masyarakat.[^1]
 
 Tenur informal berbeda dengan [[tenur-adat]] (yang berbasis tradisi komunitas) dan [[tenur-formal]] (yang diakui hukum negara). Tenur informal mencakup praktik penggunaan air yang:
 - Tidak memiliki dasar hukum formal atau adat
@@ -26,6 +26,9 @@ Di banyak wilayah, pengaturan tenur air informal sama atau bahkan lebih penting 
 
 Memahami tenur informal sama pentingnya dengan memahami tenur formal dalam penilaian tenur air yang komprehensif.
 
+
+[^1]: FAO. (2016). *Water Tenure Assessment Guide*, Section: Informal Rights.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -34,5 +37,3 @@ Memahami tenur informal sama pentingnya dengan memahami tenur formal dalam penil
 
 ---
 
-**Sumber:** Assessment Guide, Section: Informal Rights
-**Catatan kaki:** Tidak ada catatan kaki

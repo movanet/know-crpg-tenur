@@ -23,15 +23,12 @@ Terutama dalam pengaturan tenur yang melibatkan hak komunal atau hak adat, hak d
 
 Selain itu, hak formal atas air biasanya disertai dengan berbagai kewajiban, seperti kewajiban mengukur volume air yang digunakan dan/atau mengolah air limbah sebelum dibuang kembali ke badan air.
 
-Pemahaman tentang bundle of rights sangat penting untuk menganalisis kompleksitas pengaturan [[tenur-adat]], [[tenur-formal]], dan [[tenur-informal]].
+Pemahaman tentang bundle of rights sangat penting untuk menganalisis kompleksitas pengaturan [[tenur-adat]], [[tenur-formal]], dan [[tenur-informal]].[^1]
+
+[^1]: FAO. (2016). Water Tenure FAO. (2016). *Water Tenure Assessment Guide*, Section: Bundle of Rights.
 
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
 - [[kerangka-hukum]]
 - [[tata-kelola]]
-
----
-
-**Sumber:** Assessment Guide, Section: Bundle of Rights
-**Catatan kaki:** Tidak ada catatan kaki

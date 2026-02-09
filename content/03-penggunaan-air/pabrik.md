@@ -11,7 +11,7 @@ publish: true
 
 # Pabrik
 
-> "Di sini udah banyak pabrik. Daerah aku lumayan dekat sama PT Suton. Jadi agak tercemarlah" - Ulia
+> "Di sini udah banyak pabrik. Daerah aku lumayan dekat sama PT Suton. Jadi agak tercemarlah" - Ulia[^1]
 
 ### 4.3 Theme 2: Physical Barriers to Water Collection
 
@@ -32,6 +32,9 @@ publish: true
 
 > "Most people here still think disabled people should just stay at home, no need to join meetings. Here it still follows patriarchal culture" - Ulia
 
+
+[^1]: Cimanuk FAO Water Scarcity Program. (2025). *Comprehensive Water Tenure Thematic Analysis*, Section: 4.2 Theme 1: Water Source Disparity.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -40,5 +43,3 @@ publish: true
 
 ---
 
-**Sumber:** COMPREHENSIVE_WATER_TENURE_THEMATIC_ANALYSIS.md, Section: 4.2 Theme 1: Water Source Disparity
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

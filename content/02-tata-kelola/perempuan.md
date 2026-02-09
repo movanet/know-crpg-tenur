@@ -11,7 +11,7 @@ publish: true
 
 # Perempuan
 
-> "Kalau laki-laki 100, kalau perempuan 75" - Ibu Taslima
+> "Kalau laki-laki 100, kalau perempuan 75" - Ibu Taslima[^1]
 
 **Biaya Bertani (per 100 bata):**
 - Total: Rp1,5-2 juta/musim
@@ -35,6 +35,9 @@ publish: true
 
 **Masa Lalu (Sebelum 1990-an):**
 
+
+[^1]: Cimanuk FAO Water Scarcity Program. (2025). *Comprehensive Water Tenure Thematic Analysis*, Section: 3.6 Theme 5: Agricultural Work and Wage Gap.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -43,5 +46,3 @@ publish: true
 
 ---
 
-**Sumber:** COMPREHENSIVE_WATER_TENURE_THEMATIC_ANALYSIS.md, Section: 3.6 Theme 5: Agricultural Work and Wage Gap
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

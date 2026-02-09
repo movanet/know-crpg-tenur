@@ -1,33 +1,39 @@
 ---
-title: "Sipa"
+title: "SIPA (Izin Penggunaan Sumber Daya Air)"
 aliases:
+  - "SIPA"
   - "sipa"
+  - "izin penggunaan air"
+  - "izin pengambilan air"
 tags:
   - tenur-air
   - kerangka-hukum
   - regulasi
+  - perizinan
 publish: true
 ---
 
-# Sipa
+# SIPA (Izin Penggunaan Sumber Daya Air)
 
-Izin pengambilan air tidak tersedia untuk publik. Oleh karena itu, tidak diketahui apakah izin tersebut berbentuk [[izin-sipa]] (izin pengambilan air umum), SIPAT (izin pengambilan air tanah) atau SIPMA (izin pengambilan mata air). Volume pengambilan yang diperbolehkan juga tidak diketahui. Namun, diperkirakan pada tahun 2023, seluruh proyek KPBU diharapkan mengambil hingga 3920 liter per detik, dibagi oleh 5 utilitas air serta PTAB (lihat tabel di bawah). Perlu dicatat bahwa pada tahun 2019,
+SIPA adalah sistem perizinan formal untuk pemanfaatan [[apa-itu-tenur-air|sumber daya air]] berdasarkan [[uu-17-2019|UU 17/2019]]. Terdapat dua kategori utama: **izin komersial** untuk kegiatan usaha dan **persetujuan non-komersial** untuk kebutuhan sehari-hari atau pertanian rakyat.[^1]
 
-    254 'Foto dan Koordinat Pamsimas Jawa Timur' (*Pamsimas*) \<https://pamsimas.pu.go.id/data- aplikasi/laporan-imis/foto-dan-koordinat/\> accessed 2 February 2022\.
+Izin komersial diberikan dengan prioritas ketat: [[pdam|BUMN/BUMD/BUMDes]] mendapat prioritas pertama, baru kemudian sektor swasta jika tersedia air.[^2] Persetujuan non-komersial diperlukan jika pengambilan air mengubah kondisi alamiah sumber air atau untuk kebutuhan kelompok besar (>60 liter/orang/hari untuk air permukaan; >25 m³/bulan/KK untuk air tanah).[^3]
 
-    255 Al'Afghani and others (n 73).
+Dalam praktik, sistem SIPA menghadapi tantangan transparansi dan penegakan. Banyak pengambilan air beroperasi tanpa izin, terutama di sektor pertanian dan usaha kecil, menciptakan situasi [[tenur-informal|tenur informal]] yang luas.[^4] Ketidakjelasan ini mempersulit manajemen air berkelanjutan dan [[konflik-hulu-hilir|penyelesaian konflik air]].
 
-    256 'Latar Belakang – PTAB Jawa Timur' \<https://ptabjatim.id/latar-belakang/\> accessed 15 January 2022\. The company was recently converted from *Perusahaan Daerah* into *Perseroan Daerah* (Region Owned Company which takes the form of limited liability and its shares owned by the government)
+[^1]: UU 17/2019 Pasal 44-46
+[^2]: UU 17/2019 Pasal 46 ayat (5)
+[^3]: UU 17/2019 Pasal 45
+[^4]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, bagian "Modern permit-based formal water rights".
 
 ## Lihat Juga
 
-- [[rttg]]
-- [[tpop]]
-- [[raat]]
+- [[uu-17-2019]]
+- [[hak-de-minimis]]
+- [[tenur-formal]]
 - [[pdam]]
-- [[pdam]]
+- [[enforcement]]
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Figure 21: Unregistered Artesian Well in Gondang Wetan and Winongan Sub-Districts**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: "Modern permit-based formal water rights"

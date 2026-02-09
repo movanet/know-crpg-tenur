@@ -12,7 +12,7 @@ publish: true
 
 # Tenur Formal
 
-**Tenur formal** adalah pengaturan [[apa-itu-tenur-air]] yang diakui dan diatur secara resmi oleh hukum negara melalui peraturan perundang-undangan.
+**Tenur formal** adalah pengaturan [[apa-itu-tenur-air]] yang diakui dan diatur secara resmi oleh hukum negara melalui peraturan perundang-undangan.[^1]
 
 Tenur formal biasanya melibatkan:
 - Sistem perizinan atau alokasi air yang tertulis
@@ -26,6 +26,9 @@ Analisis komparatif menunjukkan kekurangan signifikan dalam pengakuan hukum atas
 
 Untuk memahami [[apa-itu-tenur-air]] secara menyeluruh, sama pentingnya untuk mempertimbangkan pengaturan yang tidak berasal dari hukum formal (seperti [[tenur-adat]] dan [[tenur-informal]]) sebagaimana yang berasal dari hukum formal. Upaya mempromosikan kebijakan dan hukum yang berorientasi pada pengurangan kemiskinan kemungkinan akan gagal kecuali realitas dasar ini, yaitu koeksistensi berbagai pengaturan dan institusi, dipertimbangkan.
 
+
+[^1]: FAO. (2016). *Water Tenure Assessment Guide*, Section: Formal Water Rights.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -34,5 +37,3 @@ Untuk memahami [[apa-itu-tenur-air]] secara menyeluruh, sama pentingnya untuk me
 
 ---
 
-**Sumber:** Assessment Guide, Section: Formal Water Rights
-**Catatan kaki:** Tidak ada catatan kaki

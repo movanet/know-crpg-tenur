@@ -11,7 +11,7 @@ publish: true
 
 # Pertambangan
 
-**Original:** BPS. 'Direktori Perusahaan Pertambangan Besar Non Migas dan Penggalian 2020'. [Accessed via C2. Mining Water Use, Cimanuk Basin.docx, source ID 11]
+**Original:** BPS. 'Direktori Perusahaan Pertambangan Besar Non Migas dan Penggalian 2020'. [Accessed via C2. Mining Water Use, Cimanuk Basin.docx, source ID 11][^1]
 
 **Validated Citation:**
 ```
@@ -32,6 +32,9 @@ BPS Provinsi Jawa Barat. (2018). Statistik Potensi Desa Provinsi Jawa Barat 2018
 
 ### Academic/Journal Sources (6 references)
 
+
+[^1]: Cimanuk FAO Project. (2026). *B6 Aquaculture Validation Results*, Line 360 (C2 Mining - also applies): BPS Mining Directory.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -40,5 +43,3 @@ BPS Provinsi Jawa Barat. (2018). Statistik Potensi Desa Provinsi Jawa Barat 2018
 
 ---
 
-**Sumber:** validation_results_B6_aquaculture.md, Section: Line 360 (C2 Mining - also applies): BPS Mining Directory
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

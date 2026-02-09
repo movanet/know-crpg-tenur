@@ -16,15 +16,12 @@ Perencanaan berbasis Daerah Aliran Sungai (DAS) merupakan instrumen penting dala
 
 Dalam konteks manajemen risiko banjir dan kekeringan, implementasi ketentuan perundang-undangan dan dokumen kebijakan terkait bersifat parsial (kategori B). Meskipun peraturan dan dokumen kebijakan memuat ketentuan tentang manajemen risiko banjir/kekeringan, implementasinya belum sepenuhnya substantif.
 
-Perencanaan DAS yang efektif memerlukan integrasi berbagai aspek: alokasi air, konservasi, pengendalian pencemaran, dan manajemen risiko bencana. Koordinasi antarlembaga dan partisipasi pemangku kepentingan menjadi kunci keberhasilan implementasi rencana DAS.
+Perencanaan DAS yang efektif memerlukan integrasi berbagai aspek: alokasi air, konservasi, pengendalian pencemaran, dan manajemen risiko bencana. Koordinasi antarlembaga dan partisipasi pemangku kepentingan menjadi kunci keberhasilan implementasi rencana DAS.[^1]
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Analysis of the governance of water tenure in the assessment area.
 
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
 - [[kerangka-hukum]]
 - [[tata-kelola]]
-
----
-
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Analysis of the governance of water tenure in the assessment area**
-**Catatan kaki:** Tidak ada catatan kaki

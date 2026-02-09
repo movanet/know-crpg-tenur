@@ -21,5 +21,5 @@ publish: true
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: Peatland as "Open Access" or "Common Property"
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Peatland as "Open Access" or "Common Property"
 **Catatan kaki:** Lubis (2013), Satia et al.

@@ -11,7 +11,7 @@ publish: true
 
 # Kementerian Lingkungan Hidup Dan Kehutanan
 
-131 *RAPP vs Kementerian Lingkungan Hidup dan Kehutanan (RAPP vs Ministry of Environment and Forestry)* PTUN Jakarta 17/P/FP/2017/PTUN-JKT. See also Sergio Baffoni, ‘APRIL Fails to Reverse Indonesian   Peat   Protection   Regulations   |   Environmental   Paper   Network’
+131 *RAPP vs Kementerian Lingkungan Hidup dan Kehutanan (RAPP vs Ministry of Environment and Forestry)* PTUN Jakarta 17/P/FP/2017/PTUN-JKT. See also Sergio Baffoni, ‘APRIL Fails to Reverse Indonesian   Peat   Protection   Regulations   |   Environmental   Paper   Network’[^1]
 
    \<https://environmentalpaper.org/2017/12/april-fails-to-reverse-peat-protection-regulations/\> accessed 1 February 2022\.
 
@@ -23,6 +23,9 @@ publish: true
 
    According to a resource person, for now most stakeholders no longer object to the water depth requirement.134
 
+
+[^1]: Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: **Figure 12: Food Estate Project in Gunung Mas Regency**.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -31,5 +34,3 @@ publish: true
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Figure 12: Food Estate Project in Gunung Mas Regency**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)

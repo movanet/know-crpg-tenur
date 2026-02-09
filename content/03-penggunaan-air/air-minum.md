@@ -2,36 +2,36 @@
 title: "Air Minum"
 aliases:
   - "air minum"
+  - "drinking water"
 tags:
   - tenur-air
   - penggunaan-air
   - pemanfaatan
+  - kebutuhan-dasar
 publish: true
 ---
 
 # Air Minum
 
-12 ‘Persentase Rumah Tangga Menurut Provinsi Dan Sumber Air Minum Layak, 1993-2017’ (*Badan Pusat Statistik*) \<https://[www.bps.go.id/statictable/2009/04/06/1549/persentase-rumah-tangga-](http://www.bps.go.id/statictable/2009/04/06/1549/persentase-rumah-tangga-) menurut-provinsi-dan-sumber-air-minum-layak-1993-2017.html\> accessed 13 August 2019\.
+Air minum adalah [[apa-itu-tenur-air|air]] yang melalui proses pengolahan atau tanpa proses pengolahan yang memenuhi syarat kesehatan dan dapat langsung diminum.[^1] Dalam konteks [[tenur-formal|tenur air]], penyediaan air minum menimbulkan kompleksitas hukum karena [[uu-17-2019|UU 17/2019]] Pasal 50 membatasi penyediaan air minum hanya untuk BUMN/BUMD/BUMDes.
 
-13	‘Persentase	Rumah	Tangga	Dengan	Air	Minum	Layak’  
-\<https://sirusa.bps.go.id/sirusa/index.php/indikator/478\> accessed 13 August 2019\.
+Dalam praktik, terdapat tiga model penyediaan air minum: (1) berbasis komunitas seperti program PAMSIMAS di perdesaan; (2) Kerjasama Pemerintah-Swasta (PPP) dimana izin dipegang pemerintah; dan (3) penyediaan mandiri untuk kawasan besar seperti perumahan, kawasan industri, dan perkantoran.[^2]
 
-14 World Bank (n 6).  
-15 Peraturan Presiden Republik Indonesia Nomor 18 Tahun 2020 Tentang Rencana Pembangunan Jangka Menengah Nasional Tahun 2020-2024.
+Akses terhadap air minum layak di Indonesia masih terbatas. Data BPS menunjukkan kesenjangan signifikan antara perkotaan dan perdesaan.[^3] Sebagian besar rumah tangga mengandalkan [[pompanisasi|air tanah]], sumur, atau membeli air galon untuk kebutuhan minum karena layanan [[pdam|PDAM]] belum mampu menyediakan air potable secara luas.[^4]
 
-![][image1]
-
-Although basic sanitation is available to 79% of the population, sewerage connection is available only to less than 1%.16 It is estimated that 95% of sewage is discharged untreated to the environment.17 Land subsidence is problematic in several major cities in Java and Sumatera, but especially the northern coast of Java which is home to several major cities in Java, including Jakarta.18
+[^1]: UU 17/2019 Pasal 1 ayat (5)
+[^2]: Annex 7, Tabel 8: Ketidakjelasan Tenur Air Minum
+[^3]: BPS, "Persentase Rumah Tangga Dengan Air Minum Layak 1993-2017"
+[^4]: Water Uses Analysis, bagian Domestic Water Use and Service Providers.
 
 ## Lihat Juga
 
-- [[sanitation]]
-- [[bws]]
 - [[pdam]]
-- [[pdam]]
-- [[monitoring]]
+- [[sipa]]
+- [[hak-de-minimis]]
+- [[drinking-water]]
+- [[pompanisasi]]
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: **Figure 3: Water Sources for Household Use**
-**Catatan kaki:** Referensi inline terdeteksi (belum diformat sebagai footnote)
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: "Table 8: Unclear Tenure on Drinking Water"

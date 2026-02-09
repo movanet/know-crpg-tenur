@@ -28,5 +28,5 @@ Persyaratan ini sempat menuai kontroversi karena berbagai jenis tanaman memerluk
 
 ---
 
-**Sumber:** Annex 7_Indonesia Water Tenure Analysis.docx.md, Section: Environmental Flow -- Minimum Water Table for Conservation
+**Sumber:** Al\'Afghani, M.M. (2022). *Water Tenure in Indonesia*, Section: Environmental Flow -- Minimum Water Table for Conservation
 **Catatan kaki:** PP 57/2016; Amalia (2018); Dariah et al. (2014)

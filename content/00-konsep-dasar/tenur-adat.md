@@ -12,7 +12,7 @@ publish: true
 
 # Tenur Adat
 
-**Tenur adat** adalah pengaturan [[apa-itu-tenur-air]] yang berbasis pada hukum adat atau kebiasaan masyarakat setempat, bukan hukum formal negara.
+**Tenur adat** adalah pengaturan [[apa-itu-tenur-air]] yang berbasis pada hukum adat atau kebiasaan masyarakat setempat, bukan hukum formal negara.[^1]
 
 Tenur adat merupakan salah satu bentuk hak tenur yang sah (*legitimate tenure rights*) meskipun tidak selalu tertulis secara formal. Pengakuan terhadap tenur adat mencerminkan prinsip pluralisme hukum, yaitu bahwa hukum formal bukan satu-satunya sumber aturan yang mengatur kehidupan masyarakat.
 
@@ -26,6 +26,9 @@ Di banyak bagian dunia, pengaturan tenur air adat sama pentingnya atau bahkan le
 
 Pemahaman tenur adat sangat penting dalam penilaian [[kerangka-hukum]] dan [[tata-kelola]] air yang komprehensif.
 
+
+[^1]: FAO. (2016). *Water Tenure Assessment Guide*, Section: Customary Rights.
+
 ## Lihat Juga
 
 - [[apa-itu-tenur-air]]
@@ -34,5 +37,3 @@ Pemahaman tenur adat sangat penting dalam penilaian [[kerangka-hukum]] dan [[tat
 
 ---
 
-**Sumber:** Assessment Guide, Section: Customary Rights
-**Catatan kaki:** Tidak ada catatan kaki
