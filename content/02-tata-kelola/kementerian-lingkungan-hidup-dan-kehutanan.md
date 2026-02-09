@@ -11,13 +11,10 @@ publish: true
 
 # Kementerian Lingkungan Hidup Dan Kehutanan
 
-131 *RAPP vs Kementerian Lingkungan Hidup dan Kehutanan (RAPP vs Ministry of Environment and Forestry)* PTUN Jakarta 17/P/FP/2017/PTUN-JKT. See also Sergio Baffoni, ‘APRIL Fails to Reverse Indonesian   Peat   Protection   Regulations   |   Environmental   Paper   Network’[^1]
 
    \<https://environmentalpaper.org/2017/12/april-fails-to-reverse-peat-protection-regulations/\> accessed 1 February 2022\.
 
-   132 CR-20, ‘Perkara RAPP dalam Himpitan Rezim Hukum Kehutanan dan Upaya Restorasi Gambut’ (*hukumonline.com*) \<https://hukumonline.com/berita/a/perkara-rapp-dalam-himpitan-rezim-hukum- kehutanan-dan-upaya-restorasi-gambut-lt57d7eada2a008/\> accessed 1 February 2022\.
 
-   133   ‘RKU   RAPP   Akhirnya   Patuhi   PP   Gambut,   Bukti   Konsistensi   KLHK’
 
    [\<http://p3esuma.menlhk.go.id/versi3/index.php/news/87-berita/537-rku-rapp-akhirnya-patuhi-pp-](http://p3esuma.menlhk.go.id/versi3/index.php/news/87-berita/537-rku-rapp-akhirnya-patuhi-pp-) gambut-bukti-konsistensi-klhk\> accessed 1 February 2022\.
 

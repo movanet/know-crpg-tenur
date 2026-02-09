@@ -11,13 +11,9 @@ publish: true
 
 # Rumah Tangga
 
-12 ‘Persentase Rumah Tangga Menurut Provinsi Dan Sumber Air Minum Layak, 1993-2017’ (*Badan Pusat Statistik*) \<https://[www.bps.go.id/statictable/2009/04/06/1549/persentase-rumah-tangga-](http://www.bps.go.id/statictable/2009/04/06/1549/persentase-rumah-tangga-) menurut-provinsi-dan-sumber-air-minum-layak-1993-2017.html\> accessed 13 August 2019\.[^1]
 
-13	‘Persentase	Rumah	Tangga	Dengan	Air	Minum	Layak’  
 \<https://sirusa.bps.go.id/sirusa/index.php/indikator/478\> accessed 13 August 2019\.
 
-14 World Bank (n 6).  
-15 Peraturan Presiden Republik Indonesia Nomor 18 Tahun 2020 Tentang Rencana Pembangunan Jangka Menengah Nasional Tahun 2020-2024.
 
 ![][image1]
 

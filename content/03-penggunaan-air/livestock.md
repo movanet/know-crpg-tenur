@@ -11,12 +11,9 @@ publish: true
 
 # Peternakan
 
-Permintaan air tahunan diperkirakan meningkat 26% (dan 28% pada musim kemarau) antara 2015-2045, dengan permintaan dari peternakan (289%) dan industri (295%) diharapkan menjadi pendorong utama.10 Produktivitas air di Indonesia termasuk terendah di Asia, hanya menghasilkan USD 3,2 untuk setiap meter kubik yang ditarik.11[^1]
+Permintaan air tahunan diperkirakan meningkat 26% (dan 28% pada musim kemarau) antara 2015-2045, dengan permintaan dari peternakan (289%) dan industri (295%) diharapkan menjadi pendorong utama.10 Produktivitas air di Indonesia termasuk terendah di Asia, hanya menghasilkan USD 3,2 untuk setiap meter kubik yang ditarik.[^1]
 
-9 ibid.
-10 ibid.
 
-11 ibid.
 
 # **Gambar 2: Produktivitas Air di Indonesia**
 
